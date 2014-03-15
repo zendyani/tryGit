@@ -1,4 +1,4 @@
 Try Git
 =======
-
-Arabicgit platforme of practice.
+'''
+Arabicgit.com platforme for practicing git workflow.
