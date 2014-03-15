@@ -1,4 +1,4 @@
 Try Git
 =======
-'''
-Arabicgit.com platforme for practicing git workflow.
+
+`Arabicgit.com platforme for practicing git workflow.`
